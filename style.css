@@ -1,0 +1,100 @@
+body{
+    font-family: 'Fondamento', cursive;
+    margin: 0;
+} 
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 35px;
+}
+p{
+    font-size: 20px;
+    text-align: left;
+    color: dimgray;
+}
+.name-hilgt{
+    color: darkcyan;
+}
+.link-button{
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    background-image: linear-gradient(red green);
+    background-color: cadetblue;
+    font-weight: 600;
+    border-radius: 20px;
+    padding: 10px 20px;
+}
+.half-width{
+    width: 40%;
+    float: left; 
+    margin-left: 2%;
+    padding-left: 5%;
+    padding-top: 70px;
+}
+.half-width img{
+    width: 100%;
+}
+section{
+    height: 650px;
+}
+.top-banar{
+    background-image: url(imag/header-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bio-part{
+    background-image: url(imag/footer-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.latest-work h1{
+    text-align: center;
+}
+.latest-work-imag{
+    text-align: center;
+}
+.work-img{
+    width: 25%;
+    height:auto %;
+  padding-top: 10%;
+  padding-left: 2%;
+}
+.latest-work{
+    background-image: url(imag/header-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.footer-title h1{
+    text-align: center;
+}
+.footr-post h3{
+    text-align: center;
+}
+.footr-review h4{
+    text-align: center;
+}
+.client p{
+    text-align: center;
+}
+.mail-txt{
+    text-align: center;
+}
+.gmail{
+    text-align: center;
+    text-decoration: none;
+    color: white;
+}
+.footer-link-button{
+   text-decoration: none;
+    text-align: center;
+    font-weight: 700;
+    font-size: 25px;
+    background-image:linear-gradient(red green);
+    background-color: aqua;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 20px;
+    margin: 0px 380px;
+}
